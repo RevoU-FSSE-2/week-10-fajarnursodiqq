@@ -6,7 +6,7 @@ info:
 servers:
   - url: http://localhost:3000
     description: Local server
-  - url: https://calm-teal-bull-cape.cyclic.app
+  - url: https://calm-rose-gopher-wear.cyclic.app/
     description: Cyclic server
 components:
   securitySchemes:
